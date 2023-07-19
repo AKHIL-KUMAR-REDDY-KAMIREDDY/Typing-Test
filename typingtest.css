@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to left, #dac0ff, #f3eaff);
+}
+
+.main-heading {
+    color: #690cb0;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.top-tag {
+    color: #3e4c59;
+    font-size: 16px;
+}
+
+.clock-img {
+    width: 50px;
+    height: 60px;
+}
+
+.seconds {
+    font-size: 39px;
+    font-weight: 300;
+
+}
+
+.typing-test-sec {
+    background-color: #f2ebfe;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #9aa5b1;
+    border-width: 1px;
+}
+
+.typing-quote {
+    font-size: 20px;
+}
+
+.textarea {
+    width: 100%;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+.result-msg {
+    font-size: 20px;
+    color: #3e4c59;
+    font-weight: 600;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 6px;
+    width: 80px;
+    font-weight: bold;
+}
+
+.reset-button {
+    font-weight: bold;
+    border-radius: 6px;
+    width: 80px;
+    border-style: solid;
+}
